@@ -9,4 +9,5 @@
 # 1. Program Menghitung Gaji Karyawan
 
 <li>Tampilan Utama Program</li></br>
+
 ![Utama](Gambar/Utama.png)</p>
