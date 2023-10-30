@@ -36,4 +36,26 @@
 
 ![Karyawan Honorer](Gambar/Karyawan%20Honorer.png)</p>
 
+<li>Source Code Menghitung Gaji Bersih</li></br>
 
+```pascal
+
+procedure TForm1.btnHitungClick(Sender: TObject);
+var
+  GajiPokok, TotalGaji, GajiBersih: Double;
+  StatusTunjangan: Double;
+
+
+begin
+  GajiPokok := StrToFloat(edtGapok.Text);
+  StatusTunjangan := StrToFloat(edtTunjangan.Text);
+
+  TotalGaji := GajiPokok + StatusTunjangan;
+
+  GajiBersih := TotalGaji;
+
+  edtTotalGaji.Text := FormatFloat('#,##0.00', TotalGaji);
+
+end;              
+
+```
