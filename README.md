@@ -20,3 +20,7 @@
 
 ![Manager Tetap](Gambar/Manager%20Tetap.png)</p>
 
+<li>Menghitung Gaji Bersih Karyawan Tetap</li></br>
+
+![Karyawan Tetap](Gambar/Karyawan%20Tetap.png)</p>
+
