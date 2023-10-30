@@ -32,3 +32,8 @@
 
 ![Manager Honorer](Gambar/Manager%20Honorer.png)</p>
 
+<li>Menghitung Gaji Bersih Karyawan Honorer</li></br>
+
+![Karyawan Honorer](Gambar/Karyawan%20Honorer.png)</p>
+
+
