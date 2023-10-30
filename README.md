@@ -15,3 +15,8 @@
 <li>Menghitung Gaji Bersih Direktur Tetap</li></br>
 
 ![Direktur Tetap](Gambar/Direktur%20Tetap.png)</p>
+
+<li>Menghitung Gaji Bersih Manager Tetap</li></br>
+
+![Manager Tetap](Gambar/Manager%20Tetap.png)</p>
+
