@@ -11,3 +11,7 @@
 <li>Tampilan Utama Program</li></br>
 
 ![Utama](Gambar/Utama.png)</p>
+
+<li>Menghitung Gaji Bersih Direktur Tetap</li></br>
+
+![Direktur Tetap](Gambar/Direktur%20Tetap.png)</p>
