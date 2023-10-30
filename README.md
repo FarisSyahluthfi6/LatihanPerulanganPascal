@@ -28,3 +28,7 @@
 
 ![Direktur Honorer](Gambar/Direktur%20Honorer.png)</p>
 
+<li>Menghitung Gaji Bersih Manager Honorer</li></br>
+
+![Manager Honorer](Gambar/Manager%20Honorer.png)</p>
+
