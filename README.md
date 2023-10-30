@@ -59,3 +59,52 @@ begin
 end;              
 
 ```
+
+<li>Source code Gaji Pokok Otomatis Sesuai Dengan Jabatan</li></br>
+
+```pascal
+
+procedure TForm1.cbJabatanChange(Sender: TObject);
+var
+  Jabatan: string;
+  GajiPokok: Double;
+
+begin
+  Jabatan := cbJabatan.Items[cbJabatan.ItemIndex];
+
+  case Jabatan of
+    'Direktur': GajiPokok := 5000000;
+    'Manager': GajiPokok := 3000000;
+    'Karyawan': GajiPokok := 1000000;
+  else
+    GajiPokok := 0; // Nilai default jika jabatan tidak ada
+  end;
+
+  edtGapok.Text := FloatToStr(GajiPokok);
+end;
+
+end.     
+
+
+```
+
+<li>Source code Status Tunjangan Otomatis Sesuai Dengan Status</li></br>
+
+```pascal
+
+procedure TForm1.rbHonorerChange(Sender: TObject);
+begin
+  if rbHonorer.Checked then
+    edtTunjangan.Caption := '500000';
+
+end;
+
+procedure TForm1.rbTetapChange(Sender: TObject);
+begin
+  if rbTetap.Checked then
+    edtTunjangan.Caption := '1500000';
+end; 
+
+
+```
+
