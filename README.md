@@ -24,3 +24,7 @@
 
 ![Karyawan Tetap](Gambar/Karyawan%20Tetap.png)</p>
 
+<li>Menghitung Gaji Bersih Direktur Honorer</li></br>
+
+![Direktur Honorer](Gambar/Direktur%20Honorer.png)</p>
+
