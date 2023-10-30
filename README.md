@@ -7,5 +7,6 @@
 
 ## Latihan
 # 1. Program Menghitung Gaji Karyawan
-# Ketentuan
-Dalam Struktur organisasi perusahaan ketentuan gaji perusahaan terbagi menjadi 3 struktur utama </br>
+
+<li>Tampilan Utama Program</li></br>
+![Utama](Gambar/Utama.png)</p>
